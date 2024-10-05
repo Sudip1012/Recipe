@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">Tastey Bites</string>
-    <string name="app_key">38891241cf57495a8c4a1374080524d6</string>
+    <string name="api_key">38891241cf57495a8c4a1374080524d6</string>
+    <string-array name="tags">
+        <item>main course</item>
+        <item>fingerfood</item>
+        <item>marinade</item>
+        <item>sauce</item>
+        <item>beverage</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>soup</item>
+        <item>snack</item>
+        <item>drink</item>
+        <item>breakfast</item>
+        <item>bread</item>
+        <item>salad</item>
+        <item>dessert</item>
+        <item>side dish</item>
+    </string-array>
 </resources>
